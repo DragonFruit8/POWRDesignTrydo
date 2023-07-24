@@ -10,7 +10,8 @@ class ContactTwo extends Component {
                         <div className="col-lg-6 order-2 order-lg-1">
                             <div className="section-title text-left mb--50">
                                 <h2 className="title">Contact Us.</h2>
-                                <p className="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto cupiditate aperiam neque.</p>
+                                <p className="description">I am available for freelance work. Connect with me via phone: <a href="tel:+13138892915">+1 313 889 2915</a> or email:
+                                    <a href="mailto:jt@powrdev.tech"> jt@powrdev.tech</a> </p>
                             </div>
                             <div className="form-wrapper">
                                 <ContactForm />
